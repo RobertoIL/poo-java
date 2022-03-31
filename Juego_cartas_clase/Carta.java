@@ -1,3 +1,5 @@
+package Juego_cartas_clase;
+
 public class Carta {
     private int valor;
     private String simbolo;
