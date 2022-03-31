@@ -1,6 +1,5 @@
 package ejercicio6;
 
-import clase.Persona;
 
 import javax.swing.JOptionPane;
 
