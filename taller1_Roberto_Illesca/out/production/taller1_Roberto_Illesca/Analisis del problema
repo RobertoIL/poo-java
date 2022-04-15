@@ -1,0 +1,5 @@
+1.- Para empezar el ejercicio tendremos una lista de libros, revistas y manuales totalmente ficticios,
+que fueron inventados en el momento.
+
+2.- En el proyecto habran 2 main, uno para el vendedor y poder registrar mas libros, manuales y revistas.
+Y ademas se podra entrar como cliente y poder visualizar los libros, revistas y manuales disponible.
